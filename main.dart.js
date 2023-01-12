@@ -54754,7 +54754,7 @@ A.Q2.prototype={
 $0(){var s=0,r=A.a0(t.H)
 var $async$$0=A.a1(function(a,b){if(a===1)return A.Y(b,r)
 while(true)switch(s){case 0:s=2
-return A.a4(A.x5(A.ur("https://drive.google.com/file/d/11hNMfmWNQ9L8X1OiRNAjDYX1btqTsTOB/view?usp=sharing",0,null)),$async$$0)
+return A.a4(A.x5(A.ur("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fthe-us-is-disastrously-behind-in-covid-19-testing-again%2F&psig=AOvVaw3l58Ggn8uhwo6ZWU9Ji20M&ust=1673596851440000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIighqPIwfwCFQAAAAAdAAAAABAE",0,null)),$async$$0)
 case 2:return A.Z(null,r)}})
 return A.a_($async$$0,r)},
 $S:32}
